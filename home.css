@@ -1,0 +1,21 @@
+
+            body{
+                text-align: center;
+                background-image: url("front.jpg");
+                /* You must set a specified height */
+             background-position: center; /* Center the image */
+             background-repeat: no-repeat; /* Do not repeat the image */
+             background-size: cover; /* Resize the background image to cover the entire container */
+             background-attachment: fixed;
+             background-size: 100% 100%;
+            }
+           table{
+            text-align:center;
+            padding:20px;
+              position: relative;
+               left: 20%;
+           }
+           .ee{
+               text-align: center;
+
+           }
